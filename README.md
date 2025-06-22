@@ -1,2 +1,2 @@
-# CYBR-101
+# CYBR101
 Repo for Cyber 101 material
